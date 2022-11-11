@@ -42,8 +42,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sinlov">
-    <img src="https://github-readme-stats.vercel.app/api?username=sinlov&show_icons=true&theme=buefy" />
+  <a href="https://github.com/aaa719717747">
+    <img src="https://github-readme-stats.vercel.app/api?username=aaa719717747&show_icons=true&theme=buefy" />
   </a>
 </p>
 
@@ -72,8 +72,8 @@ Other      2 hrs 59 mins   ██▓░░░░░░░░░░░░░░�
 </p>
 
 <p align="right">
-  <a href="https://github.com/sinlov/sinlov/actions">
+  <a href="https://github.com/aaa719717747/aaa719717747/actions">
     <img alt="build-README.md"
-      src="https://github.com/sinlov/sinlov/workflows/build-README.md/badge.svg?branch=main">
+      src="https://github.com/aaa719717747/aaa719717747/workflows/build-README.md/badge.svg?branch=main">
   </a>
 </p>
