@@ -68,7 +68,7 @@ Other      2 hrs 59 mins   ██▓░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinlov&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaa719717747&layout=compact" />
 </p>
 
 <p align="right">
